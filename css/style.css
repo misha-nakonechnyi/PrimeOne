@@ -223,6 +223,12 @@ body{
   .header__item {
     margin: 0px 0px 10px 0px;
   }
+  .lang__item{
+    font-size: 15px;
+  }
+  .header__link{
+    font-size: 20px;
+  }
 }
 @media (max-width:500px){
   .header__burger-wrapper{
@@ -239,12 +245,6 @@ body{
     top: 15px;
     max-width: 60px;
     text-align: center;
-  }
-  .lang__item{
-    font-size: 15px;
-  }
-  .header__link{
-    font-size: 20px;
   }
 }
 
